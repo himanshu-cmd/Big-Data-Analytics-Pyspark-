@@ -1,4 +1,4 @@
-# Big-Data-Analytics-Pyspark-
+# Big-Data-Analytics-Pyspark(Linear Regression)
 Predicting Rossmann store sales using Spark framework
 The objective is to build a model to predict sales in various stores and use spark framework to explore and build predictive model.
 
